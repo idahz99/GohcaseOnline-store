@@ -1,6 +1,6 @@
 # gohcase
 
-A new Flutter project.
+A new Flutter project. https://www.youtube.com/watch?v=8HOP3cFhb40
 
 ## Getting Started
 
